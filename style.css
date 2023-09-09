@@ -1,0 +1,37 @@
+html {
+  font-family: monospace;
+  font-size: larger;
+}
+h3 {
+  color: darkgreen;
+}
+li {
+  color: white;
+}
+a {
+  color: white;
+}
+h1 {
+  color: darkgreen;
+}
+h2 {
+  color: darkgreen;
+}
+img {
+  height: 500px;
+  width: 800px;
+}
+.box {
+  height: 150px;
+  width: 300px;
+}
+#secbox {
+  height: 150px;
+  width: 300px;
+  position: relative;
+  left: 100px;
+}
+div {
+  height: 500px;
+  width: 800px;
+}
